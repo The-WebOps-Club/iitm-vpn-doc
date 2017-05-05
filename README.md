@@ -47,8 +47,10 @@ VPN can be accessed through FortiClient by using LDAP username and password.
 #### Windows
 ![FortiClient on Windows](forticlient_windows_connect.gif)
 
+#### Android
+![FortiClient on Android](forticlient_android_connect_opt.gif)
+
 ### Linux (OpenFortiGUI)
-![OpenFortiGUI on Ubuntu](openfortigui.gif)
 
 - Launch `OpenFortiGUI`
 - Click `Add -> VPN`
@@ -61,3 +63,5 @@ VPN can be accessed through FortiClient by using LDAP username and password.
 - Click `Save`
 - Select `IITM` from the list of VPNs
 - Click `Connect` button on top
+
+![OpenFortiGUI on Ubuntu](openfortigui.gif)
