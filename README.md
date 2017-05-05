@@ -46,6 +46,7 @@ VPN can be accessed through FortiClient by using LDAP username and password.
 
 ### Linux (OpenFortiGUI)
 ![OpenFortiGUI on Ubuntu](openfortigui.gif)
+
 - Launch `OpenFortiGUI`
 - Click `Add -> VPN`
 - Enter the following details:
