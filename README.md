@@ -45,7 +45,7 @@ VPN can be accessed through FortiClient by using LDAP username and password.
 - You can now use any browser to get IITM interal websites
 
 ### Linux (OpenFortiGUI)
-
+![OpenFortiGUI on Ubuntu](openfortigui.gif)
 - Launch `OpenFortiGUI`
 - Click `Add -> VPN`
 - Enter the following details:
