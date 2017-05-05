@@ -42,7 +42,10 @@ VPN can be accessed through FortiClient by using LDAP username and password.
   - Username: `<your-ldap-username>`
   - Password: `<your-ldap-password>`
 - Save the profile and connect
-- You can now use any browser to get IITM interal websites
+- You can now use any browser to get IITM interNal websites
+
+#### Windows
+![FortiClient on Windows](forticlient_windows_connect.gif)
 
 ### Linux (OpenFortiGUI)
 ![OpenFortiGUI on Ubuntu](openfortigui.gif)
