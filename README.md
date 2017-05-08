@@ -12,6 +12,7 @@ VPN can be accessed through FortiClient by using LDAP username and password.
 - `FortiClient` is also available for download at [IITM Website](https://vpn.iitm.ac.in:10443) (Login using LDAP)
 - Direct download links:
   - [Windows](http://forticlient.com/downloads/FortiClientOnlineInstaller.exe)
+  - [Windows 10 Universal App](https://www.microsoft.com/en-ca/store/p/forticlient/9wzdncrdh6mc)
   - [MacOS](http://forticlient.com/downloads/FortiClient_Installer.dmg)
   - [iOS](http://itunes.apple.com/md/app/forticlient/id525600370?mt=8)
   - [Android](https://play.google.com/store/apps/details?id=com.fortinet.forticlient)
