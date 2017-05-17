@@ -19,23 +19,20 @@ VPN can be accessed through FortiClient by using LDAP username and password.
 
 ### Ubuntu & Debian
 
-- FortiClient
-  - Download and extract `FortiClient for Linux` from [here](forticlientsslvpn_linux_4.4.2329.tar.gz)
+- Download and extract `FortiClient for Linux` from [here](forticlientsslvpn_linux_4.4.2329.tar.gz)
   
- OR
+ **OR**
  
-- OpenFortiGUI
-  - Download and install `OpenFortiGUI` from
-    [Bits and Bytes](https://hadler.me/linux/openfortigui/)
-  - Direct download links:
-    - [Ubuntu 16.04 64 bit](https://hadler.me/files/openfortigui/openfortigui_0.2.10-1_amd64.deb) 
-    - [Ubuntu 16.04 32 bit](https://hadler.me/files/openfortigui/openfortigui_0.2.10-1_i386.deb)
-    - [Debian 9 64 bit](https://hadler.me/files/openfortigui/openfortigui_0.2.10-1_amd64_debian9.deb)
+- Download and install `OpenFortiGUI` from
+  [Bits and Bytes](https://hadler.me/linux/openfortigui/)
+- Direct download links:
+  - [Ubuntu 16.04 64 bit](https://hadler.me/files/openfortigui/openfortigui_0.2.10-1_amd64.deb) 
+  - [Ubuntu 16.04 32 bit](https://hadler.me/files/openfortigui/openfortigui_0.2.10-1_i386.deb)
+  - [Debian 9 64 bit](https://hadler.me/files/openfortigui/openfortigui_0.2.10-1_amd64_debian9.deb)
 
 ### CentOS, Fedora & Other Linux
 
 Use any of the three methods given below:
-
 - Download and extract `FortiClient for Linux` from [here](forticlientsslvpn_linux_4.4.2329.tar.gz)
 - Build `OpenFortiGUI` from source: [Instructions](https://hadler.me/linux/openfortigui/)
 - Use `OpenFortiVPN` from command line: [Instructions](https://github.com/adrienverge/openfortivpn)
@@ -79,7 +76,7 @@ Use any of the three methods given below:
   - Select `IITM` from Connection
   - Click `Connect`
 
-![FortiClinet on Linux](forticlient.gif)
+![FortiClient on Linux](forticlient.gif)
 
 - OpenFortiGUI
   - Launch `OpenFortiGUI`
